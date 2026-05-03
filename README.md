@@ -1,33 +1,53 @@
-👋 Hi, I'm Aditya Kumar
-💻 Aspiring Backend Developer | Java • SQL • DSA
-🎓 B.Tech IT @ Netaji Subhash Engineering College (CGPA: 7.78)
-🚀 What I Do
-Build backend-focused applications using Java
-Design structured and maintainable systems
-Solve DSA problems to improve logic & efficiency
-🛠️ Tech Stack
-Languages: Java, JavaScript
-Frontend: HTML, CSS
-Database: MySQL, JSON
-Tools: IntelliJ IDEA, Git, GitHub, VS Code, Gradle
-Core: OOP, Data Structures & Algorithms
-🔥 Highlight Project
-🚆 Train Ticket Booking System
-🔗 View Project⁠�
-CLI-based system with authentication, booking & cancellation
-JSON-based persistence using Jackson
-Secure password storage using BCrypt
-Modular architecture with clean code principles
-👉 Focused on backend logic, data handling, and security
-📈 What Sets Me Apart
-Solved 100+ DSA problems (LeetCode, CodeChef)
-Strong foundation in OOP & system design basics
-Experience building end-to-end functional projects
-Leadership as Cricket Team Head
-🎯 Currently Working On
-Building backend APIs (Spring Boot / Node.js)
-Improving system design & database skills
-Preparing for software engineering roles
-📫 Let’s Connect
-📧 adikumar681@gmail.com
-🔗 LinkedIn⁠�
+# 👋 Hi, I'm Aditya Kumar
+
+**Aspiring Backend Developer** passionate about building scalable, secure, and efficient systems. 
+
+---
+
+### 🚀 About Me
+* 🎓 **Education:** B.Tech in Information Technology from Netaji Subhash Engineering College (CGPA: 7.78).
+* 💻 **Focus:** Backend Development, System Design, and Data Structures & Algorithms.
+* 📈 **Stats:** Solved 100+ DSA problems on LeetCode and CodeChef.
+* ⚽ **Beyond Coding:** Former Cricket Team Head — I value teamwork, leadership, and discipline.
+
+---
+
+### 🛠️ Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, JavaScript |
+| **Backend/DB** | MySQL, JSON, RESTful APIs |
+| **Tools** | Git, GitHub, IntelliJ IDEA, VS Code, Gradle |
+| **Concepts** | OOP, Data Structures & Algorithms, Clean Code |
+
+---
+
+### 🚆 Featured Project
+#### [Train Ticket Booking System](https://github.com/Aditya-kr-007/My-resume-/blob/main/README.md)
+A robust, CLI-based backend application designed to handle ticket booking operations efficiently.
+* **Key Features:** User authentication, booking/cancellation logic, and modular architecture.
+* **Security:** Secure password hashing using **BCrypt**.
+* **Data Management:** Efficient JSON-based persistence using Jackson.
+
+#### [Spotify Clone]
+A web-based music streaming interface that mimics the core UI/UX of Spotify.
+* **Key Technologies:** HTML, CSS
+* **Highlight:** Implemented responsive design, dynamic playlist rendering, and custom audio playback controls.
+* **Outcome:** Created a visually engaging frontend project demonstrating DOM manipulation and CSS Flexbox/Grid skills.
+
+---
+
+### 📊 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-kr-007&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect
+* 📧 **Email:** [adikumar681@gmail.com](mailto:adikumar681@gmail.com)
+* 🔗 **LinkedIn:** [Insert Your LinkedIn URL Here]
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by! Always open to discussing new opportunities or backend challenges.</i>
+</p>
