@@ -43,6 +43,7 @@ A web-based music streaming interface that mimics the core UI/UX of Spotify.
 ### 📫 Let's Connect
 * 📧 **Email:** [adikumar681@gmail.com](mailto:adikumar681@gmail.com)
 * 🔗 **LinkedIn:** (https://www.linkedin.com/in/aditya-kr--)
+* 🔗 **Github:** (https://github.com/Aditya-kr-007)
 
 ---
 
