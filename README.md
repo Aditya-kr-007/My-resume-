@@ -1,44 +1,33 @@
-
-
- Myself Aditya Kumar
-
-**Aspiring Software Developer | Full Stack & Database Enthusiast**
-
-I am a B.Tech Information Technology graduate (2026) from Netaji Subhash Engineering College with a strong foundation in Java, Database Management, and Full Stack development. I am passionate about writing clean, efficient code and building scalable applications.
-
------
-
-### 🛠 Technical Skills
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java, HTML, CSS |
-| **Backend & Frameworks** | Spring Boot, Node.js, Express.js |
-| **Frontend** | React.js, Tailwind CSS |
-| **Databases** | MySQL, PostgreSQL, MongoDB, SQLite |
-| **Tools** | Git, GitHub, VS Code, Maven, JDBC, Postman |
-
------
-
-### 💻 Featured Projects
-
-#### [Hospital Management System]
-
-*Java, Swing, MySQL, JDBC*
-
-  * Developed a robust desktop application with a focus on Role-Based Access Control (RBAC).
-  * Optimized database performance by implementing **indexing** and 3NF schema design.
-  * Ensured data integrity and concurrency using ACID transaction principles.
-
-#### [Smart Note-Taking Application]
-
-*Java, MySQL, OOPS*
-
-  * Built a full CRUD application emphasizing secure data handling via PreparedStatements to prevent SQL Injection.
-  * Implemented modular architecture using OOP principles (Encapsulation, Abstraction).
-  * Integrated advanced search functionality using SQL LIKE operators.
-
-
-
-
-
+👋 Hi, I'm Aditya Kumar
+🎓 Information Technology Undergraduate at Netaji Subhash Engineering College (CGPA: 7.78)
+💻 Aspiring Backend Developer | Java | SQL | DSA
+🚀 Passionate about building clean, scalable applications and solving real-world problems
+🧠 About Me
+I am an aspiring software developer with a strong foundation in Java, Object-Oriented Programming, and Data Structures & Algorithms. I enjoy building practical applications and continuously improving my problem-solving skills by working on real-world projects and coding challenges.
+🛠️ Technical Skills
+Languages: Java, HTML, CSS, JavaScript
+Databases: MySQL, JSON
+Tools: IntelliJ IDEA, Git, GitHub, VS Code, Gradle
+Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+🚀 Projects
+🚆 Train Ticket Booking System
+🔗 https://github.com/Aditya-kr-007/Ticket-booking-application⁠�
+CLI-based booking system with authentication, train search, booking & cancellation
+Implemented JSON-based persistence using Jackson
+Secured passwords using BCrypt hashing
+Designed modular architecture for scalability
+🎧 Spotify Clone
+Responsive web page built using HTML and CSS
+Designed modern UI with sidebar, playlists, and music controls
+Implemented responsive design using Flexbox and CSS
+📜 Certifications
+🏅 Java Certification (HackerRank): https://www.hackerrank.com/certificates/iframe/f8806b0ad342⁠�
+🏅 SQL Certification (HackerRank): https://www.hackerrank.com/certificates/iframe/da2614d54061⁠�
+🏅 CSS Certification (HackerRank): https://www.hackerrank.com/certificates/iframe/f254f4036799⁠�
+🏆 Achievements
+Solved 100+ DSA problems on LeetCode and CodeChef
+Cricket Team Head, demonstrating leadership and teamwork
+📫 Connect With Me
+📧 Email: adikumar681@gmail.com
+💼 LinkedIn: https://linkedin.com/in/aditya⁠�
+💻 GitHub: https://github.com/aditya⁠�
