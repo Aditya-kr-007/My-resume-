@@ -37,14 +37,12 @@ A web-based music streaming interface that mimics the core UI/UX of Spotify.
 
 ---
 
-### 📊 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-kr-007&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Let's Connect
 * 📧 **Email:** [adikumar681@gmail.com](mailto:adikumar681@gmail.com)
-* 🔗 **LinkedIn:** [Insert Your LinkedIn URL Here]
+* 🔗 **LinkedIn:** (https://www.linkedin.com/in/aditya-kr--)
 
 ---
 
