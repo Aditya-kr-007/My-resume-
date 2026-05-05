@@ -17,7 +17,7 @@
 | :--- | :--- |
 | **Languages** | Java, JavaScript |
 | **Backend/DB** | MySQL, JSON, RESTful APIs |
-| **Tools** | Git, GitHub, IntelliJ IDEA, VS Code, Gradle |
+| **Tools** | Git, GitHub, IntelliJ IDEA, VS Code, Gradle, PowerBI |
 | **Concepts** | OOP, Data Structures & Algorithms, Clean Code |
 
 
