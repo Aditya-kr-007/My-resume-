@@ -1,35 +1,62 @@
-# 👋 Hi, I'm Aditya Kumar
+# Hi, I'm Aditya Kumar 👋
 
-**Aspiring Backend Developer** passionate about building scalable, secure, and efficient systems. 
+Aspiring Information Technology graduate with strong skills in Java development, web design, and problem-solving. I enjoy building clean, maintainable applications and learning new technologies through practical projects.
 
----
+## 🎓 Education
 
-### 🚀 About Me
-* 🎓 **Education:** B.Tech in Information Technology from Netaji Subhash Engineering College (CGPA: 7.78).
-* 💻 **Focus:** Backend Development, System Design, and Data Structures & Algorithms.
-* 📈 **Stats:** Solved 100+ DSA problems on LeetCode and CodeChef.
-* ⚽ **Beyond Coding:** Former Cricket Team Head — I value teamwork, leadership, and discipline.
+**B.Tech in Information Technology**  
+Netaji Subhash Engineering College, Kolkata  
+2022 – 2026 | GPA: 7.78
 
----
+## 💻 Technical Skills
 
-### 🛠️ Tech Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Java, JavaScript |
-| **Backend/DB** | MySQL, JSON, RESTful APIs |
-| **Tools** | Git, GitHub, IntelliJ IDEA, VS Code, Gradle, PowerBI |
-| **Concepts** | OOP, Data Structures & Algorithms, Clean Code |
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Core Concepts:** OOP, Data Structures and Algorithms
+- **Database:** MySQL
+- **Data & Analytics:** Power BI, Basic Data Visualization
+- **Tools:** Git, GitHub, VS Code, Gradle, IntelliJ IDEA
 
+## 🚀 Projects
 
----
+### Train Ticket Booking System
+**Tech Stack:** Java, Gradle, JSON, BCrypt
 
-### 📫 Let's Connect
-* 📧 **Email:** [adikumar681@gmail.com](mailto:adikumar681@gmail.com)
-* 🔗 **LinkedIn:** (https://www.linkedin.com/in/aditya-kr--)
-* 🔗 **Github:** (https://github.com/Aditya-kr-007)
+- Built a CLI-based train ticket booking system.
+- Added user authentication, train search, seat booking, and cancellation features.
+- Used JSON-based data persistence with Jackson.
+- Secured passwords using BCrypt hashing.
 
----
+### Netflix Clone
+**Tech Stack:** HTML, CSS
 
-<p align="center">
-  <i>Thanks for stopping by! Always open to discussing new opportunities or backend challenges.</i>
-</p>
+- Created a responsive Netflix-inspired web page.
+- Designed movie cards, navigation bar, hero section, and content categories.
+- Added hover effects and interactive buttons.
+
+## 💼 Experience
+
+### Web Development Intern  
+**Ardent Computech Pvt. Ltd.**  
+Mar 2026 – Apr 2026
+
+- Worked on designing, developing, testing, and deploying web applications.
+- Prepared documentation and presentation materials.
+- Gained hands-on experience with real-world web development workflows.
+
+## 🏆 Achievements
+
+- Solved 100+ DSA problems on LeetCode and CodeChef.
+- Led the college cricket team as College Cricket Head.
+
+## 📜 Certifications
+
+- Java Basic Certification – HackerRank
+- SQL Intermediate Certification – HackerRank
+- Frontend Developer CSS Certification – HackerRank
+- Data Visualisation – Tata Group / Forage
+
+## 📫 Connect with Me
+
+- Email: adikumar681@gmail.com
+- LinkedIn:https://www.linkedin.com/in/aditya-kr-- 
+- GitHub: https://github.com/Aditya-kr-007
