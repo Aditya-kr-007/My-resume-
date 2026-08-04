@@ -6,7 +6,7 @@ Aspiring Information Technology graduate with strong skills in Java development,
 
 **B.Tech in Information Technology**  
 Netaji Subhash Engineering College, Kolkata  
-2022 – 2026 | GPA: 7.78
+2022 – 2026 | GPA: 7.93
 
 ## 💻 Technical Skills
 
@@ -14,7 +14,7 @@ Netaji Subhash Engineering College, Kolkata
 - **Core Concepts:** OOP, Data Structures and Algorithms
 - **Database:** MySQL
 - **Data & Analytics:** Power BI, Basic Data Visualization
-- **Tools:** Git, GitHub, VS Code, Gradle, IntelliJ IDEA
+- **Tools:** Git, GitHub, VS Code, Gradle, Notepad++, Linux, IntelliJ IDEA
 
 ## 🚀 Projects
 
