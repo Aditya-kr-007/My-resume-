@@ -2,91 +2,107 @@
 
 **Aspiring IT Professional | Java Developer | Web Developer**
 
-Passionate Information Technology graduate with strong expertise in Java development, web design, and problem-solving. I specialize in building clean, scalable, and maintainable applications while staying committed to continuous learning and innovation.
+Passionate Information Technology graduate with strong expertise in Java development, web design, and problem-solving. I specialize in building clean, scalable, and maintainable applications while developing responsive web interfaces and working with modern web technologies.
+
+---
+
+## 📞 Contact Information
+
+**📧 Email:** adikumar681@gmail.com  
+**📱 Phone:** +91 7070548432  
+**🔗 LinkedIn:** [linkedin.com/in/aditya](https://linkedin.com/in/aditya)  
+**🐙 GitHub:** [github.com/aditya](https://github.com/aditya)  
 
 ---
 
 ## 🎓 Education
 
-**B.Tech in Information Technology**  
-📍 Netaji Subhash Engineering College, Kolkata  
-🎯 2022 – 2026 | **GPA: 7.93/10**
+**Bachelor of Technology in Information Technology**  
+📍 Netaji Subhash Engineering College, Kolkata, West Bengal  
+📅 2022 – 2026 | **GPA: 7.93/10**
+
+**Intermediate**  
+📍 Loyola High School, Patna, Bihar  
+📅 2020 – 2021 | **Percentage: 84.2%**
+
+**Matriculation**  
+📍 St. Karen's High School, Patna, Bihar  
+📅 2018 – 2019 | **Percentage: 84%**
 
 ---
 
 ## 💻 Technical Skills
 
 ### **Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### **Backend & Databases**
+- **Backend:** FastAPI, REST APIs, SQLAlchemy
+- **Databases:** MySQL, SQLite, PostgreSQL
 
 ### **Core Competencies**
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
+- Data Structures & Algorithms (DSA)
+- CRUD Operations
 - Full-Stack Web Development
-- Database Design & Management
 
-### **Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-- **Databases:** MySQL
-- **Data & Analytics:** Power BI, Data Visualization
-- **Developer Tools:** Git, GitHub, VS Code, Gradle, IntelliJ IDEA, Linux, Notepad++
+---
+
+## 💼 Work Experience
+
+### 🌐 **Web Development Intern**
+**Ardent Computech Pvt. Ltd.** | Kolkata, West Bengal  
+📅 **Mar 2026 – Apr 2026**
+
+- Completed project-based industrial training focused on real-world web development workflows and software development practices
+- Worked on designing, developing, testing, and deploying responsive web applications using modern web technologies
+- Developed and integrated frontend components to create user-friendly and responsive web interfaces
+- Worked with backend APIs and implemented data exchange between frontend and server-side applications
 
 ---
 
 ## 🚀 Projects
 
+### 📝 **FastAPI Blog Application**
+**Tech Stack:** Python | FastAPI | SQLAlchemy | PostgreSQL | Pydantic  
+**Repository:** [View on GitHub](https://github.com/Aditya-kr-007)  
+**Timeline:** Nov 2025
+
+- Developed a RESTful blog backend using FastAPI to manage blog posts through structured API endpoints
+- Implemented complete CRUD functionality for creating, retrieving, updating, and deleting blog posts
+- Integrated SQLAlchemy ORM with SQLite to perform database operations and maintain application data
+- Organized API routes and database logic using a modular backend structure to improve scalability
+
 ### 🎫 **Train Ticket Booking System**
-**Tech Stack:** Java | Gradle | JSON | BCrypt  
-**Repository:** [View on GitHub](https://github.com/Aditya-kr-007)
+**Tech Stack:** Java | Gradle | JSON | Jackson | BCrypt  
+**Repository:** [View on GitHub](https://github.com/Aditya-kr-007)  
+**Timeline:** Feb 2026
 
-- **Built a robust CLI-based train ticket booking application** with complete user authentication system
-- **Implemented core features:** Train search, seat availability checking, ticket booking, and cancellation
-- **Data Persistence:** Used JSON-based storage with Jackson library for reliable data management
-- **Security:** Implemented BCrypt password hashing for secure user credential storage
-- **Architecture:** Followed OOP principles for clean, maintainable, and scalable code
-
-### 🎬 **Netflix Clone**
-**Tech Stack:** HTML5 | CSS3  
-**Repository:** [View on GitHub](https://github.com/Aditya-kr-007)
-
-- **Designed a responsive Netflix-inspired web interface** matching modern UI/UX standards
-- **Components:** Interactive movie cards, professional navigation bar, hero section with featured content
-- **User Experience:** Added smooth hover effects and interactive button animations
-- **Responsive Design:** Ensured seamless experience across all device sizes
-
----
-
-## 💼 Experience
-
-### 🌐 **Web Development Intern**
-**Ardent Computech Pvt. Ltd.**  
-📅 **Mar 2026 – Apr 2026**
-
-- Collaborated on designing, developing, testing, and deploying production web applications
-- Contributed to complete development lifecycle from requirements to deployment
-- Prepared comprehensive technical documentation and presentation materials
-- Gained hands-on experience with professional web development workflows and best practices
-- Worked with cross-functional teams in an agile environment
+- Developed a CLI-based railway booking application supporting user login, train search, booking, and cancellation
+- Implemented JSON-based data persistence using Jackson for storing users, trains, and booking information
+- Secured user credentials using BCrypt password hashing and implemented authentication validation
+- Followed OOP principles for clean, maintainable, and scalable code
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-✅ **Competitive Programming:** Solved 100+ Data Structures & Algorithms problems on **LeetCode** and **CodeChef**  
-✅ **Leadership:** Led the college cricket team as **College Cricket Head** (2024-2025)  
-✅ **Technical Excellence:** Strong problem-solving skills with consistent performance in coding challenges
+✅ **College Cricket Head:** Led the college cricket team in inter-collegiate tournaments, demonstrating leadership, planning, and team management  
+✅ **Problem Solving:** Solved 150+ DSA problems on platforms like LeetCode and CodeChef, strengthening logic building and algorithmic thinking  
+✅ **Strong Academic Performance:** Maintained a GPA of 7.93/10 throughout B.Tech program
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Organization | Status |
+| Certification | Organization | Certificate |
 |---|---|---|
-| Java Basic Certification | HackerRank | ✅ Verified |
-| SQL Intermediate Certification | HackerRank | ✅ Verified |
-| Frontend Developer CSS Certification | HackerRank | ✅ Verified |
-| Data Visualization | Tata Group (Forage) | ✅ Completed |
+| Java Certification | HackerRank | [View Certificate](https://www.hackerrank.com/certificates/java) |
+| Python Certification | HackerRank | [View Certificate](https://www.hackerrank.com/certificates/python) |
+| SQL Intermediate Certification | HackerRank | [View Certificate](https://www.hackerrank.com/certificates/sql) |
 
 ---
 
@@ -95,14 +111,9 @@ Passionate Information Technology graduate with strong expertise in Java develop
 **Let's collaborate and build something amazing!**
 
 [![Email](https://img.shields.io/badge/Email-adikumar681%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adikumar681@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kr--)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya--kr--007-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya-kr-007)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-kr-007&show_icons=true&theme=radical)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%207070548432-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917070548432)
 
 ---
 
