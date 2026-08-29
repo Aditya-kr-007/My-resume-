@@ -1,8 +1,8 @@
 # Hi, I'm Aditya Kumar 👋
 
-**Aspiring IT Professional | Java Developer | Web Developer**
+**Software Developer | Java | Python | FastAPI | SQL | Backend Development | Building Real-World Applications**
 
-Passionate Information Technology graduate with strong expertise in Java development, web design, and problem-solving. I specialize in building clean, scalable, and maintainable applications while developing responsive web interfaces and working with modern web technologies.
+Passionate Information Technology graduate with strong expertise in development, web design, and problem-solving. I specialize in building clean, scalable, and maintainable applications while developing responsive web interfaces and working with modern web technologies.
 
 ---
 
@@ -10,8 +10,8 @@ Passionate Information Technology graduate with strong expertise in Java develop
 
 **📧 Email:** adikumar681@gmail.com  
 **📱 Phone:** +91 7070548432  
-**🔗 LinkedIn:** [linkedin.com/in/aditya](https://linkedin.com/in/aditya)  
-**🐙 GitHub:** [github.com/aditya](https://github.com/aditya)  
+**🔗 LinkedIn:** [linkedin.com/in/aditya](www.linkedin.com/in/aditya-kr--)  
+**🐙 GitHub:** [github.com/aditya](https://github.com/Aditya-kr-007)  
 
 ---
 
@@ -19,17 +19,8 @@ Passionate Information Technology graduate with strong expertise in Java develop
 
 **Bachelor of Technology in Information Technology**  
 📍 Netaji Subhash Engineering College, Kolkata, West Bengal  
-📅 2022 – 2026 | **GPA: 7.93/10**
+📅 2022 – 2026 | **GPA: 7.93**
 
-**Intermediate**  
-📍 Loyola High School, Patna, Bihar  
-📅 2020 – 2021 | **Percentage: 84.2%**
-
-**Matriculation**  
-📍 St. Karen's High School, Patna, Bihar  
-📅 2018 – 2019 | **Percentage: 84%**
-
----
 
 ## 💻 Technical Skills
 
@@ -95,23 +86,12 @@ Passionate Information Technology graduate with strong expertise in Java develop
 ✅ **Strong Academic Performance:** Maintained a GPA of 7.93/10 throughout B.Tech program
 
 ---
-
-## 📜 Certifications
-
-| Certification | Organization | Certificate |
-|---|---|---|
-| Java Certification | HackerRank | [View Certificate](https://www.hackerrank.com/certificates/java) |
-| Python Certification | HackerRank | [View Certificate](https://www.hackerrank.com/certificates/python) |
-| SQL Intermediate Certification | HackerRank | [View Certificate](https://www.hackerrank.com/certificates/sql) |
-
----
-
 ## 📫 Connect with Me
 
 **Let's collaborate and build something amazing!**
 
 [![Email](https://img.shields.io/badge/Email-adikumar681%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:adikumar681@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-kr--)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya--kr--007-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya-kr-007)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%207070548432-green?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917070548432)
 
